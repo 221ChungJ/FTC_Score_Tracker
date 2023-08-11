@@ -1,0 +1,10 @@
+TODO List:
+
+- week 1: Research/testing
+- week 2-3: Basic UI
+    - Bottom Navigation Bar
+    - Creating Score Object
+    - Deleting and sharing the objects between pages
+- week 4-5: Implement Persistent Data
+- week 6-7: Add finishing touches/animations
+- week 8: Firebase (maybe)
